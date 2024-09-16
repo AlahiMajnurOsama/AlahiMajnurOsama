@@ -10,12 +10,12 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alahimajnurosama&label=Profile%20views&color=0e75b6&style=flat" alt="alahimajnurosama" /> </p>
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=8CBED6&width=380&height=28&lines=Hi👋+I'm+Alahi+Majnur+Osama..;A+Cyber+Geek;A+Student..;A+Open-Source+Enthusiast..;Studying+At+BGCTUB..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alahimajnurosama&label=Profile%20views&color=0e75b6&style=flat" alt="alahimajnurosama" /> </p>
 
 </br>
 
