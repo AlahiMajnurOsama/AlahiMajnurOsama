@@ -52,9 +52,10 @@
 <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alahimajnurosama&show_icons=true&locale=en&layout=compact" alt="alahimajnurosama" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlahiMajnurOsama&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AlahiMajnurOsama&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AlahiMajnurOsama&theme=radical&hide_border=false)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alahimajnurosama&show_icons=true&locale=en" alt="alahimajnurosama" /></p>
 
 <p align="center"><img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="gift image" /></p>
 
@@ -67,5 +68,3 @@
   <br/><br/><br/>
 </div>
 
-
-![](https://github-readme-stats.vercel.app/api?username=AlahiMajnurOsama&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
