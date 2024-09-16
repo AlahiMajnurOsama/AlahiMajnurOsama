@@ -1,5 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/AlahiMajnurOsama/AlahiMajnurOsama/main/github-header-image(2).png​)](​https://alahimajnurosama.github.io/portfolio/)
-
+[![MasterHead](https://raw.githubusercontent.com/AlahiMajnurOsama/AlahiMajnurOsama/main/head.jpg​)](https://alahimajnurosama.github.io/portfolio/​)
 
 
 <h1 align="center">Assalamualaikum 👋, I'm Alahi Majnur Osama</h1>
