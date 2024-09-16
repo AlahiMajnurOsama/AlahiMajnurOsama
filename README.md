@@ -12,13 +12,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alahimajnurosama&label=Profile%20views&color=0e75b6&style=flat" alt="alahimajnurosama" /> </p>
 
-
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-</br>
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=8CBED6&width=380&height=28&lines=Hi👋+I'm+Alahi+Majnur+Osama..;A+Cyber+Geek;A+Student..;A+Open-Source+Enthusiast..;Studying+At+BGCTUB..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+
+
+</br>
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</br>
 
 
 - 🔭 I’m currently working on **IpTV Channel Project**
