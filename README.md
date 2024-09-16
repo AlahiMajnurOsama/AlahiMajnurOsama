@@ -2,7 +2,7 @@
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Alahi+Majnur+Osama..;A+Cyber+Geek;A+Student+And+A+Open-Source+Enthusiast..;Learning+In+BGC+Trust+University+Bangladesh..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Alahi+Majnur+Osama..;A+Cyber+Geek;A+Student..;A+Open-Source+Enthusiast..;StudyingAt+BGC+Trust+University+Bangladesh..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
 
     
 <h3 align="center">From Chattagram, Bangladesh</h3>
