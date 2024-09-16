@@ -2,13 +2,10 @@
 
 [![MasterHead](https://raw.githubusercontent.com/AlahiMajnurOsama/AlahiMajnurOsama/main/head.jpg)](https://alahimajnurosama.github.io/portfolio)
 <br>
-
-
-    
+<!--
 <h8 align="center">From Chattagram, Bangladesh</h3>
 
-
-
+-->
 
 
 <p align="center">
@@ -64,9 +61,9 @@
 <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> 
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlahiMajnurOsama&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlahiMajnurOsama&theme=react&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=AlahiMajnurOsama&theme=react&_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlahiMajnurOsama&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AlahiMajnurOsama&theme=react&hide_border=false)
 
 
 
