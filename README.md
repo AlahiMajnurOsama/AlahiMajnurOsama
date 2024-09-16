@@ -1,4 +1,4 @@
-[![MasterHead](https://giffiles.alphacoders.com/119/119846.gif)](https://alahimajnurosama.github.io/portfolio)
+[![MasterHead](https://raw.githubusercontent.com/AlahiMajnurOsama/AlahiMajnurOsama/main/head.jpg)](https://alahimajnurosama.github.io/portfolio)
 
 <h1 align="center">Assalamualaikum 👋, I'm Alahi Majnur Osama</h1>
 <h3 align="center">A Geek From Chattagram, Bangladesh</h3>
