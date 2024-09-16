@@ -1,11 +1,13 @@
 [![MasterHead](https://raw.githubusercontent.com/AlahiMajnurOsama/AlahiMajnurOsama/main/head.jpg)](https://alahimajnurosama.github.io/portfolio)
 <br>
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=8CBED6&width=380&height=28&lines=Hi👋+I'm+Alahi+Majnur+Osama..;A+Cyber+Geek;A+Student..;A+Open-Source+Enthusiast..;Studying+At+BGCTUB..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+
 
     
 <h3 align="center">From Chattagram, Bangladesh</h3>
+
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=8CBED6&width=380&height=28&lines=Hi👋+I'm+Alahi+Majnur+Osama..;A+Cyber+Geek;A+Student..;A+Open-Source+Enthusiast..;Studying+At+BGCTUB..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alahimajnurosama&label=Profile%20views&color=0e75b6&style=flat" alt="alahimajnurosama" /> </p>
 
