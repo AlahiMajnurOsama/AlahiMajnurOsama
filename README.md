@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **Cyber Security threats and more**
 
-- 📫 How to reach me **osama@bgctub.ac.bd**
+- 📫 Contact me at [Email](osama@bgctub.ac.bd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
