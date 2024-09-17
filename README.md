@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Networking, cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://alahimajnurosama.github.io](https://alahimajnurosama.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://alahimajnurosama.github.io/)
 
 - 💬 Ask me about **Cyber Security threats and more**
 
