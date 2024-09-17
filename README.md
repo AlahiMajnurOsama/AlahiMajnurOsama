@@ -20,7 +20,7 @@
 </br>
 
 
-- 🔭 I’m currently working on **Urban Project** 
+- 🔭 I’m currently working on [**Urban Project**](https://alahimajnurosama.github.io/Projects)
 
 - 🌱 I’m currently learning **Networking, cybersecurity**
 
@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **Cyber Security threats and more**
 
-- 📫 Contact me at [Email](osama@bgctub.ac.bd)
+- 📫 Contact me at **osama@bgctub.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
