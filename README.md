@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://raw.githubusercontent.com/AlahiMajnurOsama/AlahiMajnurOsama/main/head.jpg)](https://alahimajnurosama.github.io/portfolio)
+[![MasterHead](https://raw.githubusercontent.com/AlahiMajnurOsama/AlahiMajnurOsama/main/head.jpg)](https://alahimajnurosama.github.io/)
 <br>
 <!--
 <h8 align="center">From Chattagram, Bangladesh</h3>
@@ -20,11 +20,11 @@
 </br>
 
 
-- 🔭 I’m currently working on **IpTV Channel Project**
+- 🔭 I’m currently working on **Urban Project** 
 
 - 🌱 I’m currently learning **Networking, cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://alahimajnurosama.github.io/portfolio/](https://alahimajnurosama.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://alahimajnurosama.github.io](https://alahimajnurosama.github.io/)
 
 - 💬 Ask me about **Cyber Security threats and more**
 
